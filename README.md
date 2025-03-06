@@ -13,7 +13,6 @@ Always open to exciting new projects and collaborations! 🚀
 - **Others:** REST APIs, Automation
 
 ### 📌 Featured Projects
-- **[Railroad](https://github.com/DeathFull/Railroad):** A project focused on simulating railway systems with Java, showcasing pathfinding and object-oriented design.
 - **[discordjs-quickstart](https://github.com/DeathFull/discordjs-quickstart):** A template to quickly get started with Discord.js bot development.
 - **[3PROJ Web](https://github.com/DeathFull/3PROJ-Web):** A web development project built with modern technologies, emphasizing clean UI and efficient backends.
 
