@@ -17,6 +17,5 @@ Passionate about web and software development, I enjoy exploring new technologie
 
 ### 📫 Find Me
 - **Website:** [deathfull.fr](https://deathfull.fr)
-- **Twitter:** [@DeathFullFR](https://twitter.com/DeathFullFR)
 
 ![DeathFull's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathFull&theme=dracula&show_icons=true)
