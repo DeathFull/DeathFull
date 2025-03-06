@@ -1,6 +1,7 @@
 # 💀 DeathFull (Rudy)
 
 **`Java & Web Developer`**
+
 Passionate about web and software development, I enjoy exploring new technologies and creating a variety of projects, from robust backends to sleek user interfaces.
 
 ### 🛠️ Skills
