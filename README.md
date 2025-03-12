@@ -19,4 +19,4 @@ Always open to exciting new projects and collaborations! 🚀
 ### 📫 Find Me
 - **Website:** [deathfull.fr](https://deathfull.fr)
 
-![DeathFull's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeathFull&theme=dracula&show_icons=true)
+![DeathFull's GitHub stats](https://github-readme-stats-nu-lake-42.vercel.app/api?username=DeathFull&theme=dracula&show_icons=true)
